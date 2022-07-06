@@ -2,8 +2,16 @@
 
 A list of Figma widgets and resources for building them.
 
-* [Widgets](#widgets) — Widget source code.
-* [Resources](#resources) — Resources for building widgets
+---
+
+## How to Use and Contribute
+
+* For Widget source code, go to [Widgets ⏎](#widgets)
+* For useful resources on widget building, go to [Resources ⏎](#resources)
+
+To contribute you just have to make a pull request according to the [Contribution_Guidelines](Contribution_Guidelines.md) rules. Only widgets working in figma/figjam files can be submitted here, for plugins you can [submit them here](https://github.com/thomas-lowry/figma-plugins-on-github).
+
+> Notice these tags -ㅤ![Figma only tag](assets/figma-only.svg)ㅤfor widgets working only in Figma file,ㅤ![FigJam only tag](assets/figjam-only.svg)ㅤfor widgets working only in FigJam file andㅤ![Universal tag](assets/universal.svg) ㅤfor widgets working on figma and figjam file.
 
 ---
 
@@ -19,17 +27,30 @@ A collection of widgets that have been open-sourced.
 
 ### A
 
-#### widget name (by john doe) ![mac.svg](assets/universal.svg)
+#### widget name (by john doe) ![Universal tag](assets/universal.svg)
 
 lorem ipsum dolor sit amet, consectetur adipis
 
-[Repo](https://github.com/Ashung/android-resources-export-figma) | [Plugin on Figma](https://www.figma.com/c/plugin/735452896889481850/Android-Resources-Export)
+[Repo](https://github.com/mrstev3n/figma-widgets-on-github) | [Widget on Figma](https://www.figma.com/community/widgets)
 
 ---
 
 ### B
 
 ### C
+
+#### Clock (by Sai Rakshit) ![Universal tag](assets/universal.svg)
+
+A simple clock widget which tells time in hours, minutes and seconds format.
+
+[Repo](https://github.com/rak-shit/Figma-Clock-Widget) | [Widget on Figma](https://www.figma.com/community/widget/1124078327536043967/Clock)
+
+#### Contrast Checker (by Zach Inglis) ![Figma only tag](assets/figma-only.svg)
+
+Test any frame and any color against WCAG AA or AAA Contrast Guidelines. Great for creating
+design systems and easily being able to keep your scores up to date.
+
+[Repo](https://github.com/zachinglis/figma-contrast-check) | [Widget on Figma](https://www.figma.com/community/widget/1123669584321839030/Contrast-Checker)
 
 ### D
 
@@ -43,11 +64,25 @@ lorem ipsum dolor sit amet, consectetur adipis
 
 ### I
 
+#### Interactive Figmaland (by Golf Sinteppadon) ![Universal tag](assets/universal.svg)
+
+Widget intended to be used with [Interactive Figmaland](https://www.figma.com/community/file/1118658708951135857?fuid=765561188849749568) file
+
+Made during Figma's June 2022 Maker Week
+
+[Repo](https://github.com/minigolf2000/figmaland) | [Widget on Figma](https://www.figma.com/community/widget/1117473220251961046/Interactive-Figmaland)
+
 ### J
 
 ### K
 
 ### L
+
+#### Live Code Block (by Cole Bemis) ![FigJam only tag](assets/figjam-only.svg)
+
+Turn FigJam into a collaborative JavaScript canvas
+
+[Repo](https://github.com/colebemis/figjam-live-code-block) | [Widget on Figma](https://www.figma.com/community/widget/1037859737715704794/Live-Code-Block)
 
 ### M
 
@@ -65,15 +100,41 @@ lorem ipsum dolor sit amet, consectetur adipis
 
 ### T
 
+#### Table (by Gavin McFarland) ![Universal tag](assets/universal.svg)
+
+Create, import, manage and display tabular data.
+
+[Repo](https://github.com/gavinmcfarland/figma-widget-table) | [Widget on Figma](https://www.figma.com/community/widget/1027585818512741999/Table)
+
+#### Timeline (by Michael Yong) ![Universal tag](assets/universal.svg)
+
+A timeline widget that is useful for making gantt charts in FigJam!
+
+[Repo](https://github.com/ymichael/WidgetTimeline) | [Widget on Figma](https://www.figma.com/community/widget/1038507134198748761/Timeline)
+
 ### U
 
 ### V
 
 ### W
 
+#### Whose turn is it? (by Elynn Lee) ![FigJam only tag](assets/figjam-only.svg)
+
+A FigJam widget to help your group take turns! Keep track of whose turn it is, who’s already gone, and who’s left.
+
+Allow people to “popcorn” to others and choose who goes next, or use the “next” button to randomly choose the next person. As people join or leave, you can also “refresh” the list of people to reflect who’s still in the file.
+
+[Repo](https://github.com/elynnlee/WidgetTurnPicker) | [Widget on Figma](https://www.figma.com/community/widget/1044279368528763372/Whose-turn-is-it%3F)
+
 ### X
 
 ### Y
+
+#### Youtube Embed (by Tekeste Kidanu) ![FigJam only tag](assets/figjam-only.svg)
+
+A Widget to embed youtube video into FigJam
+
+[Repo](https://github.com/iamtekeste/figjam-youtube-embed)
 
 ### Z
 
@@ -83,4 +144,36 @@ A collection of resources to help accelerate the development process of Figma wi
 
 ---
 
-#### Tt
+#### create-widget
+
+Create new [Figma & FigJam widgets](https://www.figma.com/widget-docs/) with a single command.
+
+[Repo](https://github.com/figma/create-widget)
+
+This is a fork of the awesome [party-js](https://party.js.org/) library to work inside of Figma.
+
+[Repo](https://github.com/ymichael/party-figma)
+
+#### Gif example
+
+A demo about how to add Gif type element into FigJam canvas
+
+[Repo](https://github.com/lichin-lin/figjam-gif-example)
+
+#### Party Figma
+
+This is a fork of the awesome [party-js](https://party.js.org/) library to work inside of Figma.
+
+[Repo](https://github.com/ymichael/party-figma)
+
+#### Widget API typings
+
+This repository contains the typings for the Figma Widget API.
+
+[Repo](https://github.com/figma/widget-typings)
+
+#### Widget Samples
+
+Figma and FigJam Widget Samples
+
+[Repo](https://github.com/figma/widget-samples)
