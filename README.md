@@ -1,9 +1,9 @@
 # Open source Figma widgets related projects on GitHub
 
-A list of Figma Plugins and resources for building them.
+A list of Figma widgets and resources for building them.
 
 * [Widgets](#widgets) — Widget source code.
-* [Resources](#resources) — Resources for building widges
+* [Resources](#resources) — Resources for building widgets
 
 ---
 
@@ -19,9 +19,9 @@ A collection of widgets that have been open-sourced.
 
 ### A
 
-#### Android Resources Export (by Ashung Hung) ![mac.svg](assets/universal.svg)
+#### widget name (by john doe) ![mac.svg](assets/universal.svg)
 
-Export multiple sizes PNG from selected slice or exportable layer, with a fixed folder structure (drawable-xhdpi, etc..) and valid name.
+lorem ipsum dolor sit amet, consectetur adipis
 
 [Repo](https://github.com/Ashung/android-resources-export-figma) | [Plugin on Figma](https://www.figma.com/c/plugin/735452896889481850/Android-Resources-Export)
 
@@ -79,7 +79,7 @@ Export multiple sizes PNG from selected slice or exportable layer, with a fixed 
 
 ## Resources
 
-A collection of resources to help accelerate the development process of Figma Plugins.
+A collection of resources to help accelerate the development process of Figma widgets.
 
 ---
 
