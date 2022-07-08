@@ -17,7 +17,7 @@ To contribute, you just have to submit a pull request by following these rules:
 
 ### ⏍ Links & Tag
 
-* Please, use the following format for the links : ``[Repo](link) | [Plugin on Figma](link)``.
+* Please, use the following format for the links : ``[Repo](link) | [Widgets on Figma](link)``.
 
 * Please, add the appropriate tag :
   * Widgets related
