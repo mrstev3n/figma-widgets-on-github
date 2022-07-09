@@ -183,8 +183,8 @@ Figma and FigJam Widget Samples
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/contrib-b.svg" height="32px">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="assets/contrib-w.svg" height="32px">
+  <source media="(prefers-color-scheme: light)" srcset="assets/contrib-b.svg" height="32px">
+  <img alt="Auto Switch mode. light/Dark" src="assets/contrib-w.svg" height="32px">
 </picture>
 
 </div>
