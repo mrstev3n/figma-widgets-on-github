@@ -3,7 +3,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/yxykrNLY/cover-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/PqnNhZ0r/cover-light.png">
   <img alt="Auto Switch mode. light/Dark" src="https://i.postimg.cc/j2bDXfQF/cover-dark.png">
 </picture>
 
