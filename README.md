@@ -1,6 +1,17 @@
 # Open source Figma widgets related projects on GitHub
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/yxykrNLY/cover-light.png">
+  <img alt="Auto Switch mode. light/Dark" src="https://i.postimg.cc/j2bDXfQF/cover-dark.png">
+</picture>
+
+</br>
+
 A list of Figma widgets and resources for building them.
+
+</div>
 
 ---
 
@@ -234,3 +245,5 @@ To contribute, you just have to submit a pull request by following these rules:
 ### ⚲ Review Workflow  
 
 We will do our best to review your submission as soon as possible. Depending on our availability, we will generally try to process pending submissions each weekend.
+
+![cover-dark.png](https://i.postimg.cc/0j54DMSY/cover-dark.png)
