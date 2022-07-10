@@ -10,7 +10,6 @@
 </br>
 
 A list of Figma widgets and resources for building them.
-
 </div>
 
 ---
@@ -245,5 +244,3 @@ To contribute, you just have to submit a pull request by following these rules:
 ### ⚲ Review Workflow  
 
 We will do our best to review your submission as soon as possible. Depending on our availability, we will generally try to process pending submissions each weekend.
-
-![cover-dark.png](https://i.postimg.cc/0j54DMSY/cover-dark.png)
