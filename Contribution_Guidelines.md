@@ -1,4 +1,19 @@
-# 📜 Guidelines
+<h1 align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/contrib-b.svg" height="32px">
+  <img alt="Auto Switch mode. light/Dark" src="assets/contrib-w.svg" height="32px">
+</picture>
+
+</h1>
+
+<div align="center">
+
+![GitHub contributors](https://img.shields.io/github/contributors/mrstev3n/figma-widgets-on-github?color=0D99FF)
+![GitHub pull-requests](https://img.shields.io/github/issues-pr-raw/mrstev3n/figma-widgets-on-github?color=brightgreen&label=open%20requests)
+![GitHub pull-requests merged](https://badgen.net/github/merged-prs/mrstev3n/figma-widgets-on-github?label=merged%20requests&color=9747FF)
+
+</div>
 
 ### ✐ Contribution
 

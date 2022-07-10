@@ -1,6 +1,16 @@
 # Open source Figma widgets related projects on GitHub
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/PqnNhZ0r/cover-light.png">
+  <img alt="Auto Switch mode. light/Dark" src="https://i.postimg.cc/j2bDXfQF/cover-dark.png">
+</picture>
+
+</br>
+
 A list of Figma widgets and resources for building them.
+</div>
 
 ---
 
@@ -177,3 +187,60 @@ This repository contains the typings for the Figma Widget API.
 Figma and FigJam Widget Samples
 
 [Repo](https://github.com/figma/widget-samples)
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/contrib-b.svg" height="32px">
+  <img alt="Auto Switch mode. light/Dark" src="assets/contrib-w.svg" height="32px">
+</picture>
+
+</div>
+
+</br>
+
+<div align="center">
+
+![GitHub contributors](https://img.shields.io/github/contributors/mrstev3n/figma-widgets-on-github?color=0D99FF)
+![GitHub pull-requests](https://img.shields.io/github/issues-pr-raw/mrstev3n/figma-widgets-on-github?color=brightgreen&label=open%20requests)
+![GitHub pull-requests merged](https://badgen.net/github/merged-prs/mrstev3n/figma-widgets-on-github?label=merged%20requests&color=9747FF)
+
+</div>
+
+### ✐ Contribution
+
+---
+
+To contribute, you just have to submit a pull request by following these rules:
+
+* Search for previous suggestions before making a new one to prevent duplication.
+* If you want to submit a widget, make sure you put it in the right alphabetical order.
+* Don't forget to add the creator's name.
+* Check spelling and grammar.
+* Please, add appropriate tags.
+* Try to make your Pull Request descriptive and check all questions in the PR template
+
+* New assets are welcomed if you have 2+ ressources to submit.
+
+### ⏍ Links & Tag
+
+* Please, use the following format for the links : ``[Repo](link) | [Widgets on Figma](link)``.
+
+* Please, add the appropriate tag :
+  * Widgets related
+    * ![universal](assets/universal.svg) for widgets available in figma & figjam
+    * ![figma only](assets/figma-only.svg) for widgets available in figma only
+
+    * ![figjam only](assets/figjam-only.svg) for widgets available in figjam only
+
+  * Ressources related
+    * ![vue](assets/vue.svg) for vue js
+    * ![react](assets/react.svg) for react js
+
+    * ![svelte](assets/svelte.svg) for svelte js
+
+### ⚲ Review Workflow  
+
+We will do our best to review your submission as soon as possible. Depending on our availability, we will generally try to process pending submissions each weekend.
