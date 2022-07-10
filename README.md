@@ -203,9 +203,9 @@ Figma and FigJam Widget Samples
 
 <div align="center">
 
-![GitHub contributors](https://img.shields.io/github/contributors/mrstev3n/figma-widgets-on-github?color=0D99FF)
-![GitHub pull-requests](https://img.shields.io/github/issues-pr-raw/mrstev3n/figma-widgets-on-github?color=brightgreen&label=open%20requests)
-![GitHub pull-requests merged](https://badgen.net/github/merged-prs/mrstev3n/figma-widgets-on-github?label=merged%20requests&color=9747FF)
+[![GitHub contributors](https://img.shields.io/github/contributors/mrstev3n/figma-widgets-on-github?color=0D99FF)](https://github.com/mrstev3n/figma-widgets-on-github/graphs/contributors)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr-raw/mrstev3n/figma-widgets-on-github?color=brightgreen&label=open%20requests)](https://github.com/mrstev3n/figma-widgets-on-github/pulls)
+[![GitHub pull-requests merged](https://badgen.net/github/merged-prs/mrstev3n/figma-widgets-on-github?label=merged%20requests&color=9747FF)](https://github.com/mrstev3n/figma-widgets-on-github/pulls?q=is%3Apr+is%3Aclosed)
 
 </div>
 
